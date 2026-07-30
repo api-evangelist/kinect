@@ -1,0 +1,25 @@
+generated: '2026-07-19'
+method: searched
+source: live probe of https://www.trykinect.ai/.well-known/*
+host: https://www.trykinect.ai
+notes: >-
+  Kinect publishes a Universal Commerce Protocol (UCP) manifest at
+  /.well-known/ucp declaring a dev.ucp.shopping service over MCP transport
+  with catalog.search and catalog.lookup capabilities. No security.txt, OIDC,
+  OAuth-authorization-server, api-catalog, or ai-plugin documents are served.
+documents:
+- path: /.well-known/ucp
+  status: 200
+  content_type: application/json
+  file: kinect-ucp.json
+  standard: Universal Commerce Protocol (ucp.dev)
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404

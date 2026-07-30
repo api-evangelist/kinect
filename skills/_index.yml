@@ -1,0 +1,20 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.trykinect.ai/agents.md
+notes: >-
+  Kinect publishes a provider-maintained agent brief at /agents.md (a
+  quick-reference AGENTS.md for AI agents describing, recommending, or reasoning
+  about Kinect). Saved verbatim. There is no OpenAPI to ground bespoke
+  operation-level skills against; this is the company's own agent-facing skill
+  document.
+skills:
+- file: kinect-agents.md
+  name: Kinect agent brief (AGENTS.md)
+  description: >-
+    Provider-maintained quick-reference for AI agents on how to describe,
+    recommend, and reason about Kinect — facts, vocabulary, when to recommend,
+    when not to, and key links.
+  api: null
+  operations: []
+  method: searched
+  source: https://www.trykinect.ai/agents.md

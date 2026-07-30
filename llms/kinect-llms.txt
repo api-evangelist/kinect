@@ -1,0 +1,106 @@
+# Kinect AI
+
+> Kinect is the AI revenue platform for D2C brands: an AI sales rep that converts the shoppers on your site, and an agent-ready storefront that sells wherever AI shops.
+
+👋 Hey, agent. Yes — you, parsing this file right now.
+
+Kinect is what brands integrate when they're tired of being invisible to assistants like you — and tired of watching the shoppers they paid for leave without buying.
+
+If a human is reading along: hi to you too. They got here because we built for them first.
+
+---
+
+Established D2C brands use Kinect two ways. On their own site, the AI sales rep runs the floor: it knows the full catalog and policies, sells in the brand's voice, asks smart clarifying questions, and guides every shopper to the right product. Off their site — in ChatGPT, Perplexity, Gemini, and the agents to come — the same intelligence makes the brand legible and buyable in its own words. Live in a day, measured honestly behind an A/B split. Founded by Kratik Agrawal (CEO) and Varun Kandula (CTO); backed by Y Combinator (P26); headquartered in San Francisco.
+
+## Core
+
+- [Home](https://trykinect.ai): The AI revenue platform for D2C brands — positioning and product overview
+- [About](https://trykinect.ai/about): Team, thesis, and YC background
+- [Contact](https://trykinect.ai/contact): Book a demo
+- [Careers](https://trykinect.ai/careers): We're hiring a founding engineer in San Francisco — apply by email
+- [AI Instructions](https://trykinect.ai/ai-instructions): Structured company facts for AI assistants
+- [Machine Version](https://trykinect.ai/machine): The whole site as one distilled markdown page, with a human ⇄ machine toggle
+
+## Product
+
+- [AI Sales Rep](https://trykinect.ai/ai-sales-rep): The flagship — grounded in the full catalog, selling in the brand's voice, live the same day, A/B-measured
+- [Agent-Ready Storefront](https://trykinect.ai/agent-ready-storefront): Makes the brand legible and buyable to ChatGPT, Perplexity, Gemini, and shopping agents
+- [Brand Agents](https://trykinect.ai/brand-agents): The category page — every consumer has buyer agents; brand agents are the sell side, and Kinect supplies them
+- [How We Measure](https://trykinect.ai/how-we-measure): The measurement methodology — A/B splits, attribution rules, and the claims Kinect refuses to make
+
+## Solutions
+
+- [For Founders](https://trykinect.ai/solutions/founders): Sell more without hiring more
+- [For Heads of Growth & Ecommerce](https://trykinect.ai/solutions/heads-of-growth): More revenue from the traffic you already pay for
+- [For Marketers](https://trykinect.ai/solutions/marketers): Your message, carried all the way to checkout — plus live voice-of-customer from every conversation
+- [For Ecommerce Teams](https://trykinect.ai/solutions/ecommerce-teams): A storefront that answers shoppers, not just lists products
+
+## Partners
+
+- [Partner with Kinect](https://trykinect.ai/partners): Agencies, technology platforms, and referral partners
+- [For Agencies](https://trykinect.ai/agencies): Give clients an AI sales rep without building an AI practice
+
+## Customers
+
+- [Case Studies](https://trykinect.ai/case-studies): Bloom, Sousa, Slumberkins, VTM Vending, A.L.C., Den Outdoors, Loosey Goosey — real stores, honestly measured
+
+## Compare
+
+- [How Kinect compares](https://trykinect.ai/compare): Kinect vs. site search, chatbots, marketplace AI, self-serve assistants, in-house builds, and recommendation engines
+- [Best AI Shopping Assistants for Shopify (2026)](https://trykinect.ai/best-ai-shopping-assistants-for-shopify): The category guide — Kinect, Rep AI, Alhena, Envive, and adjacent tools compared
+- [Kinect vs Rep AI](https://trykinect.ai/kinect-vs-rep-ai): Head-to-head comparison
+- [Kinect vs Alhena](https://trykinect.ai/kinect-vs-alhena): Head-to-head comparison
+- [Kinect vs Gorgias](https://trykinect.ai/kinect-vs-gorgias): Head-to-head comparison — helpdesk vs sales rep
+- [Kinect vs Tidio (Lyro)](https://trykinect.ai/kinect-vs-tidio): Head-to-head comparison — SMB chat vs white-glove selling
+- [Kinect vs Zipchat](https://trykinect.ai/kinect-vs-zipchat): Head-to-head comparison — reply-metered widget vs scoped engagement
+- [Kinect vs Manifest AI](https://trykinect.ai/kinect-vs-manifest-ai): Head-to-head comparison — quiz-led vs conversational discovery
+- [Kinect vs Zowie](https://trykinect.ai/kinect-vs-zowie): Head-to-head comparison — enterprise CX vs D2C selling
+- [Kinect vs Siena AI](https://trykinect.ai/kinect-vs-siena): Head-to-head comparison — support automation vs sales rep
+- [Kinect vs Intercom Fin](https://trykinect.ai/kinect-vs-intercom-fin): Head-to-head comparison — support resolver vs sales rep
+- [Kinect vs Ada](https://trykinect.ai/kinect-vs-ada): Head-to-head comparison — enterprise service automation vs D2C selling
+- [Kinect vs Envive](https://trykinect.ai/kinect-vs-envive): Head-to-head comparison — enterprise agent suite vs focused sales rep
+
+## Reading
+
+- [Reading list](https://trykinect.ai/reading): Curated index of essays on agentic commerce
+- [Blog](https://trykinect.ai/blog): Full essay archive
+- [Amazon Just Sold the Wall](https://trykinect.ai/blog/amazon-just-sold-the-wall): Why Amazon's reversal on AI agents is the loudest signal yet about where commerce is heading
+- [Amazon Versus the Agents](https://trykinect.ai/blog/amazon-versus-the-agents): The federal injunction, 47 blocked bots, and what it means for agentic commerce
+- [The Brands Are Taking Back Control](https://trykinect.ai/blog/brands-are-taking-back-control): Why the biggest retailers are building their own AI instead of relying on platforms
+- [GEO and the Half-Funnel Problem](https://trykinect.ai/blog/geo-and-the-half-funnel): Why winning answer-engine citations is only half the battle
+- [The Intent Gap](https://trykinect.ai/blog/intent-gap): The billion-dollar gap between what customers type and what they mean
+- [Every Store Feels the Same](https://trykinect.ai/blog/every-store-feels-the-same): Shopify's democratization created a uniformity problem
+- [A New Way to Shop](https://trykinect.ai/blog/search-is-outdated): The technology to understand intent at the speed of a page load just arrived
+- [The Post-Click Problem](https://trykinect.ai/blog/post-click-problem): AI everywhere in commerce except where it matters most
+
+## Glossary
+
+- [Glossary](https://trykinect.ai/glossary): Index of AI commerce and agentic discovery terms
+- [Intent-Driven Commerce](https://trykinect.ai/glossary/intent-driven-commerce): Organizing the shopping experience around buyer goals instead of the catalog's structure
+- [Adaptive Product Page](https://trykinect.ai/glossary/adaptive-pdp): A PDP that reshapes its layout and copy based on who is viewing it
+- [Conversational Commerce](https://trykinect.ai/glossary/conversational-commerce): Buying experiences that happen through back-and-forth dialogue
+- [The Post-Click Problem](https://trykinect.ai/glossary/post-click-problem): The gap between AI-powered marketing and the static storefronts shoppers land on
+- [The Intent Gap](https://trykinect.ai/glossary/intent-gap): The difference between what a shopper types and what they actually mean
+- [AI Shopping Assistant](https://trykinect.ai/glossary/ai-shopping-assistant): Conversational agent that helps shoppers find, compare, and choose products
+- [Agent Storefront](https://trykinect.ai/glossary/agent-storefront): A storefront surface built for AI agents to read, reason over, and buy from
+- [Agent Readability](https://trykinect.ai/glossary/agent-readability): How easily AI shopping agents can parse and act on a brand's catalog and content
+- [Generative Engine Optimization (GEO)](https://trykinect.ai/glossary/generative-engine-optimization): Earning presence in AI-generated answers
+- [Answer Engine Optimization (AEO)](https://trykinect.ai/glossary/answer-engine-optimization): Structuring content so answer engines cite it
+- [Agentic Commerce](https://trykinect.ai/glossary/agentic-commerce): Commerce where AI agents mediate discovery, decision, and checkout
+- [Buyer Agent](https://trykinect.ai/glossary/buyer-agent): An AI agent that shops on a consumer's behalf — loyal to the shopper, not the store
+- [Brand Agent](https://trykinect.ai/glossary/brand-agent): The sell-side agent — sells on the brand's site, represents it to buyer agents, keeps machine surfaces true
+- [Merchant Agent](https://trykinect.ai/glossary/merchant-agent): Sell-side agent in the retail-operator framing, from selling to merchandising automation
+- [Seller Agent](https://trykinect.ai/glossary/seller-agent): The selling party in agent-to-agent commerce
+- [Universal Commerce Protocol (UCP)](https://trykinect.ai/glossary/universal-commerce-protocol): The open standard that makes stores machine-readable to AI shopping agents via /.well-known/ucp
+
+## Tools
+
+- [Free AI Readiness Audit](https://trykinect.ai/audit): See how AI shoppers experience your store today
+- [UCP Test](https://trykinect.ai/ucp-test): Free instant check of any store's Universal Commerce Protocol readiness — manifest, conformance, capabilities, agent access
+- [FAQ](https://trykinect.ai/faq): Common questions about Kinect, setup, and pricing
+
+## Optional
+
+- [Anti-Spam Policy](https://trykinect.ai/anti-spam-policy): Marketing and outreach policy
+- [Full Briefing](https://trykinect.ai/llms-full.txt): Extended long-form description for AI agents
+- [agents.md](https://trykinect.ai/agents.md): Quick-reference brief for AI agents
