@@ -2,14 +2,12 @@ generated: '2026-07-19'
 method: searched
 status: published
 source: https://www.trykinect.ai/.well-known/ucp
-notes: >-
-  Kinect advertises an agent-facing shopping surface through the open Universal
-  Commerce Protocol (UCP, ucp.dev) rather than a bespoke MCP server. Its
-  /.well-known/ucp manifest declares the dev.ucp.shopping service with an MCP
-  transport and an OpenRPC schema, exposing catalog search and lookup so buyer
-  agents (ChatGPT, Gemini, Perplexity, and other UCP-aware agents) can read and
-  reason over the brand's catalog. This is the sell-side "brand agent" surface;
-  it is per-store and negotiated read-only. Not an npm-installable stdio server.
+notes: Kinect advertises an agent-facing shopping surface through the open Universal Commerce Protocol
+  (UCP, ucp.dev) rather than a bespoke MCP server. Its /.well-known/ucp manifest declares the dev.ucp.shopping
+  service with an MCP transport and an OpenRPC schema, exposing catalog search and lookup so buyer agents
+  (ChatGPT, Gemini, Perplexity, and other UCP-aware agents) can read and reason over the brand's catalog.
+  This is the sell-side "brand agent" surface; it is per-store and negotiated read-only. Not an npm-installable
+  stdio server.
 server:
   name: kinect-ucp-shopping
   protocol: Universal Commerce Protocol (UCP) 2026-04-08
@@ -33,3 +31,10 @@ agent:
   name: Kinect
   url: https://trykinect.ai
   contact: hello@trykinect.ai
+deployment:
+  mode: remote
+  endpoint: https://www.trykinect.ai/.well-known/ucp
+  verified: probed
+  probe: http-405
+  checked: '2026-08-12'
+  source: catalog MCP census
