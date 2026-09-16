@@ -1,19 +1,15 @@
 aid: kinect
 name: Kinect
-description: >-
-  Kinect (Kinect AI, Inc.) is an AI revenue platform for direct-to-consumer
-  brands, built around two products that share one brand intelligence: an AI
-  sales rep that converses with shoppers on a brand's own site — grounded in the
-  full catalog, policies, and reviews, selling in the brand's voice and guiding
-  each visitor to the right product — and an agent-ready storefront that makes
-  the brand legible and buyable to external AI (ChatGPT, Perplexity, Gemini, and
-  emerging buyer agents). Kinect exposes its brand-agent surface through the
-  open Universal Commerce Protocol (UCP) at /.well-known/ucp, advertising an MCP
-  shopping service with catalog search and lookup capabilities, and maintains
-  agent-native discovery documents (llms.txt, agents.md, ai-instructions). The
-  company is white-glove and same-day to onboard, measures every deployment
-  behind an A/B split, and is a Y Combinator company (P26) headquartered in San
-  Francisco. Founded by Kratik Agrawal (CEO) and Varun Kandula (CTO).
+description: 'Kinect (Kinect AI, Inc.) is an AI revenue platform for direct-to-consumer brands, built
+  around two products that share one brand intelligence: an AI sales rep that converses with shoppers
+  on a brand''s own site — grounded in the full catalog, policies, and reviews, selling in the brand''s
+  voice and guiding each visitor to the right product — and an agent-ready storefront that makes the brand
+  legible and buyable to external AI (ChatGPT, Perplexity, Gemini, and emerging buyer agents). Kinect
+  exposes its brand-agent surface through the open Universal Commerce Protocol (UCP) at /.well-known/ucp,
+  advertising an MCP shopping service with catalog search and lookup capabilities, and maintains agent-native
+  discovery documents (llms.txt, agents.md, ai-instructions). The company is white-glove and same-day
+  to onboard, measures every deployment behind an A/B split, and is a Y Combinator company (P26) headquartered
+  in San Francisco. Founded by Kratik Agrawal (CEO) and Varun Kandula (CTO).'
 url: https://raw.githubusercontent.com/api-evangelist/kinect/refs/heads/main/apis.yml
 deliveryModel:
   model: unknown
@@ -50,7 +46,7 @@ x-founders:
 - Varun Kandula (CTO)
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-19'
+modified: '2026-09-16'
 tags:
 - Company
 - Artificial Intelligence
@@ -62,6 +58,7 @@ tags:
 - Shopify
 - LLM
 - Universal Commerce Protocol
+- Direct to Consumer
 apis: []
 common:
 - type: DomainSecurity
