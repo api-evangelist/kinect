@@ -2,24 +2,29 @@ generated: '2026-07-19'
 method: searched
 source: live probe of https://www.trykinect.ai/.well-known/*
 host: https://www.trykinect.ai
-notes: >-
-  Kinect publishes a Universal Commerce Protocol (UCP) manifest at
-  /.well-known/ucp declaring a dev.ucp.shopping service over MCP transport
-  with catalog.search and catalog.lookup capabilities. No security.txt, OIDC,
+notes: Kinect publishes a Universal Commerce Protocol (UCP) manifest at /.well-known/ucp declaring a dev.ucp.shopping
+  service over MCP transport with catalog.search and catalog.lookup capabilities. No security.txt, OIDC,
   OAuth-authorization-server, api-catalog, or ai-plugin documents are served.
-documents:
-- path: /.well-known/ucp
-  status: 200
-  content_type: application/json
-  file: kinect-ucp.json
-  standard: Universal Commerce Protocol (ucp.dev)
-- path: /.well-known/security.txt
-  status: 404
-- path: /.well-known/openid-configuration
-  status: 404
-- path: /.well-known/oauth-authorization-server
-  status: 404
-- path: /.well-known/api-catalog
-  status: 404
-- path: /.well-known/ai-plugin.json
-  status: 404
+hosts:
+- host: https://www.trykinect.ai
+  documents:
+  - path: /.well-known/ucp
+    status: 200
+    file: kinect-ucp.json
+    standard: Universal Commerce Protocol (ucp.dev)
+    content_type: application/json
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+x-shape-fix:
+  converted: '2026-08-20'
+  from: documents
+  note: Rewritten into hosts[] -> documents[], the only shape well_known_docs() in score.rb reads. A served
+    .well-known surface recorded in any other shape scores as absent.
