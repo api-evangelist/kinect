@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/kinect/integrations
+- https://n8n.io/integrations/kinect/
+- https://composio.dev/toolkits/kinect
+- https://monid.ai/tools/kinect
+checked:
+- https://composio.dev/toolkits/kinect
+- https://monid.ai/tools/kinect
+- https://n8n.io/integrations/kinect/
+- https://zapier.com/apps/kinect/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
